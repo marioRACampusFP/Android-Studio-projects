@@ -1,2 +1,2 @@
-# Proyectos Android Studio
-Repositorio para mis ejercicios y proyectos de Anodrid Studio en el ciclo.
+# Android Studio Projects
+Repository for my Android Studio exercises and projects in the cycle.
